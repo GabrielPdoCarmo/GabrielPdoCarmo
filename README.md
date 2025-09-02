@@ -25,5 +25,6 @@
 ---
 
 ## 🌎 Onde me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-carmo-077801309)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-carmo-077801309)
+- 📱 [Instagran](https://www.instagram.com/gabriel.pcarmo)  
 - 📧 **gabrielcarmobr14@gmail.com**
