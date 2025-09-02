@@ -1,30 +1,35 @@
-# 👋 Olá, eu sou o Gabriel Pereira do Carmo
+<h1 align="center">👋 Olá, eu sou Gabriel Pereira do Carmo</h1>
 
-🎓 Formado em **Tecnologia em Análise e Desenvolvimento de Sistemas (2025)**  
-🧪 QA com foco em **testes automatizados usando Cypress**  
-💻 Experiência em **React Native, Node.js/Express (TypeScript), MySQL/Supabase**  
-🐾 Criador do aplicativo **Pets Up** – solução digital para **adoção de animais de estimação**
-
----
-
-## 🚀 Tecnologias & Ferramentas
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
-![Cypress](https://img.shields.io/badge/-Cypress-grey?logo=cypress)
-![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql)
+<p align="center">
+🎓 Formado em <b>Tecnologia em Análise e Desenvolvimento de Sistemas (2025)</b><br>
+🧪 QA com foco em <b>testes automatizados usando Cypress</b><br>
+💻 Experiência em <b>React Native, Node.js/Express (TypeScript), MySQL/Supabase</b><br>
+🐾 Criador do app <b>Pets Up</b> – plataforma de adoção de animais
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielPdoCarmo&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPdoCarmo&layout=compact&theme=radical)
+## 📊 Minhas Estatísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielPdoCarmo&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPdoCarmo&layout=compact&theme=radical" alt="Top Langs" height="150"/>
+</p>
 
 ---
 
-## 🌎 Onde me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-carmo-077801309)
-- 📱 [Instagran](https://www.instagram.com/gabriel.pcarmo)  
-- 📧 **gabrielcarmobr14@gmail.com**
+## 🚀 Tecnologias que uso
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,mysql,git,github,cypress,vscode" />
+</p>
+
+---
+
+## 🌐 Onde me encontrar
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-pereira-do-carmo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gabrielcarmobr14@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
