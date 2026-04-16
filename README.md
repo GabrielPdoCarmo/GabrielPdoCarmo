@@ -66,6 +66,9 @@ Sistema web para venda e gestão de peças automotivas
 
 ## 💡 Sobre mim
 
-Sou um profissional com experiência em **Qualidade de Software e Desenvolvimento**, com foco em criar aplicações eficientes e bem estruturadas.  
-Tenho facilidade em aprender novas tecnologias e gosto de trabalhar com soluções que gerem impacto real.
+<p>
+  Sou um profissional com experiência em <b>Qualidade de Software e Desenvolvimento</b>,com foco em criar aplicações eficientes e bem estruturadas.<br><br>
+  Tenho facilidade em aprender novas tecnologias e gosto de trabalhar com soluções que gerem <b>impacto real</b> 🚀
+</p>
+
 ---
