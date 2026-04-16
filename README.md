@@ -4,7 +4,7 @@
 
 <p align="center">
 🎓 Formado em <b>Tecnologia em Análise e Desenvolvimento de Sistemas (2025)</b><br>
-🧪 Experiência com <b>Testes Automatizados (Cypress)</b><br>
+🧪 Experiência com <b>Testes Manuais e Automatizados (Cypress)</b><br>
 💻 Desenvolvimento com <b>React Native, Node.js (TypeScript)</b><br>
 🗄️ Banco de dados: <b>MySQL & Supabase</b>
 </p>
