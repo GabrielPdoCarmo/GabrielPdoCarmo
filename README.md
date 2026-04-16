@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, eu sou Gabriel Pereira do Carmo</h1>
 
-<h3 align="center">💻 Desenvolvedor | 🧪 QA Automatizado | 🚀 Apaixonado por tecnologia</h3>
+<h3 align="center">💻 Desenvolvedor | 🧪 QA | 🚀 Apaixonado por tecnologia</h3>
 
 <p align="center">
 🎓 Formado em <b>Tecnologia em Análise e Desenvolvimento de Sistemas (2025)</b><br>
