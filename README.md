@@ -5,7 +5,7 @@
 🧪 QA com foco em <b>testes automatizados usando Cypress</b><br>
 💻 Experiência em <b>React Native, Node.js/Express (TypeScript), MySQL/Supabase</b><br>
 🐾 Criador do app <b>Pets Up</b> – plataforma de adoção de animais</b><br>
-🚚 Criador do Site <b>🚧 Campo Peças (Em desenvolvimento) – Sistema web voltado para venda e gestão de peças.</b>
+🚚 Criador do Site <b> Campo Peças (Em desenvolvimento) – Sistema web voltado para venda e gestão de peças.</b>
 </p>
 
 ## 📋 Portfólio: https://gabrielpcarmo-portfolio.vercel.app 
