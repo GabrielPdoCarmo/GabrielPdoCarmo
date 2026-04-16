@@ -4,11 +4,12 @@
 🎓 Formado em <b>Tecnologia em Análise e Desenvolvimento de Sistemas (2025)</b><br>
 🧪 QA com foco em <b>testes automatizados usando Cypress</b><br>
 💻 Experiência em <b>React Native, Node.js/Express (TypeScript), MySQL/Supabase</b><br>
-🐾 Criador do app <b>Pets Up</b> – plataforma de adoção de animais
+🐾 Criador do app <b>Pets Up</b> – plataforma de adoção de animais</b><br>
+🚚 Criador do Site <b>🚧 Campo Peças (Em desenvolvimento) – Sistema web voltado para venda e gestão de peças.</b>
 </p>
 
+## 📋 Portfólio: https://gabrielpcarmo-portfolio.vercel.app 
 ---
-
 ## 📊 Minhas Estatísticas
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielPdoCarmo&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
